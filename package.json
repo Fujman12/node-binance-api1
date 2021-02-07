@@ -1,0 +1,27 @@
+{
+  "name": "node-binance-api",
+  "version": "0.4.6",
+  "description": "Binance API",
+  "main": "node-binance-api.js",
+  "dependencies": {
+    "request": "^2.83.0",
+    "ws": "^3.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Fujman12/node-binance-api.git"
+  },
+  "keywords": [
+    "binance",
+    "api"
+  ],
+  "author": "Armen Martikian",
+  "license": "",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
